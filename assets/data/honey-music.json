@@ -1,0 +1,69 @@
+{
+  "brand": {
+    "name": "Honey Music",
+    "tagline": "One Label. Infinite Emotions. Endless Music.",
+    "description": "Honey Music is an independent music label and artist collective for songs, videos, tours, fan moments, and official merchandise.",
+    "email": "hello@honeymusic.in",
+    "phone": "+91 98765 43210",
+    "location": "Mumbai, Maharashtra, India",
+    "social": {
+      "facebook": "https://facebook.com/honeymusic",
+      "youtube": "https://youtube.com/@honeymusic",
+      "instagram": "https://instagram.com/honeymusic",
+      "spotify": "https://open.spotify.com",
+      "tiktok": "https://tiktok.com/@honeymusic"
+    }
+  },
+  "songs": [
+    {
+      "id": "red-heart-beats",
+      "title": "Red Heart Beats",
+      "artist": "Honey Music Collective",
+      "audioFile": "assets/images/audios/audio1.mp3",
+      "duration": "3:45",
+      "status": "published"
+    },
+    {
+      "id": "midnight-riyaaz",
+      "title": "Midnight Riyaaz",
+      "artist": "Aarav Pulse",
+      "audioFile": "assets/images/audios/audio2.mp3",
+      "duration": "4:12",
+      "status": "published"
+    },
+    {
+      "id": "monsoon-groove",
+      "title": "Monsoon Groove",
+      "artist": "Meera Vox",
+      "audioFile": "assets/images/audios/audio3.mp3",
+      "duration": "3:58",
+      "status": "published"
+    }
+  ],
+  "albums": [
+    {
+      "id": "red-heart-beats",
+      "title": "Red Heart Beats",
+      "artist": "Honey Music Collective",
+      "year": 2026,
+      "cover": "assets/images/discography/discography1.jpg",
+      "genre": "Indie Pop"
+    },
+    {
+      "id": "street-vibes",
+      "title": "Street Vibes",
+      "artist": "DJ Raga",
+      "year": 2026,
+      "cover": "assets/images/discography/discography2.jpg",
+      "genre": "Electronic"
+    },
+    {
+      "id": "divine-echoes",
+      "title": "Divine Echoes",
+      "artist": "Nila Beats",
+      "year": 2025,
+      "cover": "assets/images/discography/discography3.jpg",
+      "genre": "Fusion"
+    }
+  ]
+}
