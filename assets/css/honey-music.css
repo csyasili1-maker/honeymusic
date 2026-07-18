@@ -604,6 +604,31 @@ footer a.text_animation .honey-logo {
     scroll-margin-top: 105px;
 }
 
+/* Homepage animated logo showcase */
+.honey-animated-logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+}
+
+.honey-animated-logo__video {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-height: 720px;
+    object-fit: contain;
+    background: #000;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .honey-animated-logo__video {
+        animation: none;
+    }
+}
+
 @media (max-width: 767px) {
     #lightDarkToggle,
     #ltrRtlToggle,
